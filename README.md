@@ -2,8 +2,7 @@
 
 ## Current Version
 
-backbone.js v0.9.10
-Also includes AMD-enabled fork
+backbone.js v1.0
 
 ## Requirements
 
@@ -67,8 +66,6 @@ Refer to the desired files in your HTML template, e.g.
 <script type="text/javascript" src="{{ asset('bundles/bmatznerbackbone/js/backbone.min.js') }}"></script>
 ```
 
-Alternatively, use the AMD-enabled fork in your AMD loader config to load Backbone.
-
 ## Licenses
 
 Refer to the source code of the included files for license information
@@ -76,5 +73,4 @@ Refer to the source code of the included files for license information
 ## References
 
 1. http://documentcloud.github.com/backbone/
-2. https://github.com/amdjs/backbone
-3. http://symfony.com
+2. http://symfony.com
