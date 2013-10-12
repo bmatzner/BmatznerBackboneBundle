@@ -2,7 +2,7 @@
 
 ## Current Version
 
-backbone.js v1.0
+backbone.js v1.1.0
 
 ## Requirements
 
