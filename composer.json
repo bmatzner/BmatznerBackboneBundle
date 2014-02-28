@@ -14,12 +14,12 @@
     ],
     "require":     {
         "symfony/framework-bundle": ">=2.1",
-        "bmatzner/underscore-bundle": "~1.5"
+        "bmatzner/underscore-bundle": "~1.6"
     },
     "recommend":   {
-        "bmatzner/jquery-bundle": "~1.10",
+        "bmatzner/jquery-bundle": ">=1.11",
         "bmatzner/json2-bundle":  "*",
-        "bmatzner/lodash-bundle": "~2.3"
+        "bmatzner/lodash-bundle": "~2.4"
     },
     "autoload":    {
         "psr-0": {
