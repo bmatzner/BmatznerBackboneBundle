@@ -2,7 +2,7 @@
 
 ## Current Version
 
-backbone.js v1.1.2
+backbone.js v1.3.2
 
 ## Requirements
 
@@ -18,7 +18,7 @@ Backbone requires either Underscore.js or Lo-Dash and optionally jQuery or Zepto
 {
     "require": {
 		// ...
-        "bmatzner/backbone-bundle": "~1.1"
+        "bmatzner/backbone-bundle": "~1.3"
     }
 }
 ```
