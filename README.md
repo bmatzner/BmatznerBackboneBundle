@@ -2,7 +2,7 @@
 
 ## Current Version
 
-backbone.js v1.3.2
+backbone.js v1.3.3
 
 ## Requirements
 
@@ -72,5 +72,5 @@ Refer to the source code of the included files for license information
 
 ## References
 
-1. http://documentcloud.github.com/backbone/
-2. http://symfony.com
+1. http://backbonejs.org/
+2. http://symfony.com/
